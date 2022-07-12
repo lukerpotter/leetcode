@@ -14,6 +14,8 @@ the index of the letter after it, to the recursive function
 Recursive function: using the indices passed in, checks if these two values
 match. If so, add to each end of the string, then decrement the left index
 and increment the right index, and call the function again.
+
+Some comments and whatnot
 '''
 
 class Solution:
